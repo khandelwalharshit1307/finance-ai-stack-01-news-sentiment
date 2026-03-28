@@ -738,5 +738,5 @@ st.markdown("---")
 st.caption(
     "Finance AI Stack | Module 01 | "
     "Built with FinBERT + NewsAPI + Streamlit | "
-    "github.com/[yourhandle]/finance-ai-stack"
+    "https://github.com/khandelwalharshit1307/finance-ai-stack-01-news-sentiment"
 )
