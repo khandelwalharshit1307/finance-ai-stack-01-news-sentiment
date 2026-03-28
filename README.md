@@ -33,8 +33,6 @@ Python | FinBERT | NewsAPI | Streamlit | Plotly | SQLite
 pip install -r requirements.txt
 streamlit run dashboard.py
 
-## Live Demo
-[Streamlit link]
 
 ## Part of Finance × AI
 Module 01 of a weekly open-source series applying AI 
@@ -43,4 +41,4 @@ to real finance workflows.
 ## About
 Harshit Khandelwal — MiM at ESSEC Business School, 
 Leveraged Loans Analyst at BNP Paribas AM
-[LinkedIn](your linkedin url)
+https://www.linkedin.com/in/harshit-khandelwal-6278a4193/
